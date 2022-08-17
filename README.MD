@@ -13,12 +13,12 @@ The file with all merged content is called `merged_hanzi_data.csv` in the `revis
 
 # Sources
 
-https://raw.githubusercontent.com/gigacool/hanyu-shuiping-kaoshi/master/hsk.csv
-https://www.mdbg.net/chinese/dictionary?page=cedict
-https://chine.in/mandarin/dictionnaire/
-https://lingua.mtsu.edu/chinese-computing/
-https://github.com/elkmovie/hsk30
-https://github.com/infinyte7/HSK-3.0-words-list
+- https://raw.githubusercontent.com/gigacool/hanyu-shuiping-kaoshi/master/hsk.csv 
+- https://www.mdbg.net/chinese/dictionary?page=cedict  
+- https://chine.in/mandarin/dictionnaire/  
+- https://lingua.mtsu.edu/chinese-computing/  
+- https://github.com/elkmovie/hsk30  
+- https://github.com/infinyte7/HSK-3.0-words-list  
 
 # TODO
 
