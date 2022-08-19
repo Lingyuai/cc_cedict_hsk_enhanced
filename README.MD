@@ -20,6 +20,3 @@ The file with all merged content is called `merged_hanzi_data.csv` in the `revis
 - https://github.com/elkmovie/hsk30  
 - https://github.com/infinyte7/HSK-3.0-words-list  
 
-# TODO
-
-- Fetch data from cedict/cfdict files every x day.
